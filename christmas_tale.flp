@@ -1,0 +1,18 @@
+﻿<flash_project name="christmas_tale" version="1">
+    <project_folder name="classes" expanded="true">
+        <project_folder name="core" expanded="true">
+            <project_file path=".:classes/core/Game.as" filetype="as" />
+        </project_folder>
+        <project_folder name="field" expanded="true">
+            <project_file path=".:classes/field/GameField.as" filetype="as" />
+            <project_file path=".:classes/field/FieldObject.as" filetype="as" />
+            <project_file path=".:classes/field/Santa.as" filetype="as" />
+            <project_file path=".:classes/field/FieldObjectFactory.as" filetype="as" />
+            <project_file path=".:classes/field/Block.as" filetype="as" />
+            <project_file path=".:classes/field/IceBlock.as" filetype="as" />
+            <project_file path=".:classes/field/LevBlock.as" filetype="as" />
+            <project_file path=".:classes/field/IceHole.as" filetype="as" />
+        </project_folder>
+    </project_folder>
+    <project_file path=".:christmas_tale" filetype="" profile="" def_file="true" />
+</flash_project>

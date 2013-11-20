@@ -1,0 +1,1 @@
+﻿package field {	import field.FieldObject;		public class IceHole extends FieldObject {		public function IceHole(ix:uint=0, jx:uint=0) {			super(FieldObject.ICE_HOLE, ix, jx, false);			stop();		}	}}
